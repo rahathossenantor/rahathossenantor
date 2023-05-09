@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Languages section  -->
 
-### Human Languages:
+### Languages that I speak:
 
 - <img src="./source/bangladesh.svg" alt="Bangladeshi" width="24"/> <img src="./source/india.svg" alt="India" width="24"/> Bangla (Native)
 
