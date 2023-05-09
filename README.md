@@ -46,17 +46,19 @@ You can click the Preview link to take a look at your changes.
 
 ### Human Languages:
 
-- <img src="./source/bangladesh.svg" alt="Bangladeshi" width="23"/> Bangla (Native)
+- <img src="./source/bangladesh.svg" alt="Bangladeshi" width="24"/> <img src="./source/india.svg" alt="India" width="24"/> Bangla (Native)
 
-- <img src="./source/usa.svg" alt="USA" width="23"/> <img src="./source/canada.svg" alt="Canada" width="23"/> English (Intermediate)
+- <img src="./source/usa.svg" alt="USA" width="24"/> <img src="./source/canada.svg" alt="Canada" width="23"/> English (Intermediate)
 
-- <img src="./source/india.svg" alt="India" width="23"/> Hindi (Advanced)
+- <img src="./source/india.svg" alt="India" width="24"/> Hindi (Advanced)
 
-- <img src="./source/fiji.svg" alt="Fiji" width="23"/> Fiji Hindi (Intermediate)
+- <img src="./source/fiji.svg" alt="Fiji" width="24"/> Fiji Hindi (Intermediate)
 
-- <img src="./source/pakistan.svg" alt="Pakistan" width="23"/> Urdu (Advanced)
+- <img src="./source/pakistan.svg" alt="Pakistan" width="24"/> Urdu (Advanced)
 
-- <img src="./source/ksa.svg" alt="KSA" width="23"/> Arabic (Basic)
+- <img src="./source/ksa.svg" alt="KSA" width="24"/> Arabic (Basic)
+
+- <img src="./source/nepal.svg" alt="Nepal" width="24"/> Nepali (Beginner)
 
   <br/>
 
