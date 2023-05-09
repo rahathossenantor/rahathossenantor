@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi <img src="./source/hello.gif" width="28px" alt="hi">, I'm Md Rahat Hossen Antor!</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh <img src="./source/bangladesh.png" width="19"/></h3>
+<h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Antor!</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh <img src="./source/bangladesh.svg" alt="Bangladesh" width="25"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrahathossenantor&label=Profile%20views&color=0e75b6&style=flat" alt="mdrahathossenantor"/> </p>
 
@@ -46,15 +46,17 @@ You can click the Preview link to take a look at your changes.
 
 ### Human Languages:
 
-- 🇧🇩 Bangla (Native)
+- <img src="./source/bangladesh.svg" alt="Bangladeshi" width="23"/> Bangla (Native)
 
-- 🇺🇲 English (Intermediate)
+- <img src="./source/usa.svg" alt="USA" width="23"/> <img src="./source/canada.svg" alt="Canada" width="23"/> English (Intermediate)
 
-- 🇮🇳 Hindi (Advanced)
+- <img src="./source/india.svg" alt="India" width="23"/> Hindi (Advanced)
 
-- 🇵🇰 Urdu (Advanced)
+- <img src="./source/fiji.svg" alt="Fiji" width="23"/> Fiji Hindi (Intermediate)
 
-- 🇸🇦 Arabic (Basic)
+- <img src="./source/pakistan.svg" alt="Pakistan" width="23"/> Urdu (Advanced)
+
+- <img src="./source/ksa.svg" alt="KSA" width="23"/> Arabic (Basic)
 
   <br/>
 
