@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi <img src="source/hello.gif" width="28px" alt="hi">, I'm Md Rahat Hossen Antor!</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh <img src="source/bangladesh.png" width="19"/></h3>
+<h1 align="center">Hi <img src="./source/hello.gif" width="28px" alt="hi">, I'm Md Rahat Hossen Antor!</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh <img src="./source/bangladesh.png" width="19"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrahathossenantor&label=Profile%20views&color=0e75b6&style=flat" alt="mdrahathossenantor"/> </p>
 
