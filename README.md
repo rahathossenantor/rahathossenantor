@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
     src="https://komarev.com/ghpvc/?username=mdrahathossenantor&label=Profile%20views&color=0e75b6&style=flat"
     alt="mdrahathossenantor" /> </p>
 
-- 🌱 I’m currently learning **JavaScript** <br />
-
-- 🌱 Most used line of code `console.log("hello world")` <br />
+- 🌱 I’m currently learning **React.js** <br />
 
 - 👯 I’m looking to collaborate on **GitHub**
 
