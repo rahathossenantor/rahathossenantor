@@ -5,19 +5,19 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/> Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Antor!</h1>
-<h3 align="center">A passionate Frontend focused Web Developer from Bangladesh <img src="./source/bangladesh.svg"
+<h3 align="center">A passionate Frontend focused Web Application Developer from Bangladesh <img src="./source/bangladesh.svg"
     alt="Bangladesh" width="25" /></h3>
 
 <p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=mdrahathossenantor&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mdrahathossenantor" /> </p>
+    src="https://komarev.com/ghpvc/?username=rahathossenantor&label=Profile%20views&color=0e75b6&style=flat"
+    alt="rahathossenantor" /> </p>
 
 - 🌱 I’m currently learning **React.js** <br />
 
 - 👯 I’m looking to collaborate on **GitHub**
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/mdrahathossenantor](https://github.com/mdrahathossenantor)
+[https://github.com/rahathossenantor](https://github.com/rahathossenantor)
 
 - 💬 Ask me about **Web Development**
 
@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdrahathossenantor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rahat-hossen-antor-534403254)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100086382246424) -->
 
 [![Facebook
-Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086382246424)
+Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rahathossenantor)
 [![Youtube
 Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsceYYXWcfQUk6GMNqEZSdA)
 [![Linkedin
-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rahat-hossen-antor-534403254/)
+Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahathossenantor)
 [![Instagram
 Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) [![Twitter
 Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) [![Mail
@@ -79,16 +79,16 @@ Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&log
 <table>
   <h1 align="center">Github Stats</h1>
   <tr>
-    <td><img alt="mdrahathossenantor :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=mdrahathossenantor&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+    <td><img alt="rahathossenantor :: Profile Stats"
+        src="https://github-readme-stats.vercel.app/api?username=rahathossenantor&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
     </td>
-    <td><img alt="mdrahathossenantor :: Top Langs]"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahathossenantor&langs_count=14&theme=blue-green&layout=compact&hide=html">
+    <td><img alt="rahathossenantor :: Top Langs]"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathossenantor&langs_count=14&theme=blue-green&layout=compact&hide=html">
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=mdrahathossenantor&theme=blue-green&hide_border=true">
+        src="https://github-readme-streak-stats.herokuapp.com?user=rahathossenantor&theme=blue-green&hide_border=true">
     </td>
   </tr>
 </table>
