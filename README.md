@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/> Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Antor!</h1>
+<!--     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/> -->
+Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Antor!</h1>
 <h3 align="center">A passionate Frontend focused Web Application Developer from Bangladesh <img src="./source/bangladesh.svg"
     alt="Bangladesh" width="25" /></h3>
 
