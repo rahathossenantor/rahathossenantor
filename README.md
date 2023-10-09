@@ -13,7 +13,7 @@ Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Anto
     src="https://komarev.com/ghpvc/?username=rahathossenantor&label=Profile%20views&color=0e75b6&style=flat"
     alt="rahathossenantor" /> </p>
 
-- 🌱 I’m currently learning **React.js** <br />
+- 🌱 I’m currently learning **Backend Technologies** <br />
 
 - 👯 I’m looking to collaborate on **GitHub**
 
