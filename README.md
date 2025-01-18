@@ -49,11 +49,13 @@
 </div>
 
 <!-- Profile View Counter -->
+<!--
 <div align="center">
 
 [![Profile](https://visitcount.itsvg.in/api?id=rahathossenantor&icon=0&color=0)](https://rahathossen.com)
 
 </div>
+-->
 
 
 <!--
