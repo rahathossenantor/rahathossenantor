@@ -28,9 +28,11 @@
 </div>
 
 <!-- Statistics -->
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahathossenantor&theme=aura&hide_border=true" style="display: inline-block; width: 100%;" />
 </div>
+-->
 
 <!-- GitHub Snake  -->
 <div align="center">
