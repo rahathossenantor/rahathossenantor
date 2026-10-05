@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Md Rahat Hossen Antor!</h1>
-	<h4 align="center">A passionate Softwere Developer from Bangladesh <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
+	<h4 align="center">A passionate Software Developer from Bangladesh <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
 </div>
 <hr/>
 <br/>
